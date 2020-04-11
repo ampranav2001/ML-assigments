@@ -1,0 +1,4 @@
+start,end=-5,20
+for num in range(star ,end +1):
+ if (num>0):
+  print('num')
