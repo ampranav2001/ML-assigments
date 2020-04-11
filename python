@@ -1,0 +1,19 @@
+1)
+list=['man united','liverpool', 'man city']
+list.append('arsenal')
+print(list)
+
+2)
+mytuple=('pranav','1','nivin,'real madrid')
+print(mytuple(3))
+
+
+
+3)
+dict={
+'premam':2015
+'ovs':2014
+'tattahin marayathu':2012
+}
+del dict['ovs']
+print(dict)
