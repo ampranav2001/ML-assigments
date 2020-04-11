@@ -1,0 +1,13 @@
+number=int(imput('enter the number'))
+x=0
+y=1
+i=1
+print('fibanocci series upto',number)
+print(x)
+print(y)
+while i<number:
+ n=x+y
+ print(n)
+ x=y
+ y=n
+ i=i+1
